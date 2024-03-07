@@ -1,6 +1,6 @@
 # youme
 
-A new Flutter project.
+YouMe is a chat app for both iOS and Android. It is in Beta Phase for now. Will provide ReadMe file later
 
 ## Getting Started
 
